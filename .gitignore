@@ -11,6 +11,11 @@
 *.o
 *.obj
 
+# large content
+Content/ParagonKwang/*
+Content/paragonSunWukong/*
+Content/MAEOakForest/*
+
 # Precompiled Headers
 *.gch
 *.pch
